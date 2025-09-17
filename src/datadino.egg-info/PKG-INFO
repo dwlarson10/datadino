@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: datadino
+Version: 0.1.0
+Summary: A lightweight framework for CSV and structured data analysis with LLMs (Groq-powered).
+Author-email: Your Name <your@email.com>
+License-Expression: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: requests
+
+# datadino
+a lightweight package for using open source models to do data analysis. 
