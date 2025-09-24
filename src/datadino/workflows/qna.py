@@ -1,6 +1,6 @@
-from core.loader import load_csv
-from core.profiler import profile_df
-from core.llm import groq_chat
+from datadino.core.loader import load_csv
+from datadino.core.profiler import profile_df
+from datadino.core.llm import groq_chat
 
 
 def qna(path: str, question: str):

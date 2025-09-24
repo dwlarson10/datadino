@@ -11,7 +11,7 @@ src/datadino/core/llm.py
 src/datadino/core/llm_wrapper.py
 src/datadino/core/loader.py
 src/datadino/core/profiler.py
-src/datadino/core/outputs/__init__.py
+src/datadino/outputs/__init__.py
 src/datadino/tests/__init__.py
 src/datadino/utils/__init__.py
 src/datadino/workflows/__init__.py
